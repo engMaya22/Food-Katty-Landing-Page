@@ -1,0 +1,47 @@
+.hide-mobile{
+    display: none;
+}
+body{
+    background-color: #FFFBF3;
+    margin: 0;
+    font-family: 'Inter';
+
+}
+.wrap{
+     margin: 2em;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+}
+nav ul{
+    background-color: white;
+    position: fixed;
+    z-index: 999;
+    top: 0;
+    right: 0;
+    margin: 0;
+    height: 100vh;
+    list-style: none;
+    width: 40%;
+    text-align: right;
+    padding: 2em;
+    li{
+        margin: 1em 0;
+        &:nth-of-type(1){ 
+            /* fist li item */
+            margin-bottom: 2em;
+        }
+        a{
+            color: black;
+            text-decoration: none;
+            font-weight:bold ;
+            font-size: 1.2rem;
+            &:hover{
+                /* hover this a */
+                color: orange;
+            }
+        }
+    }
+
+}
