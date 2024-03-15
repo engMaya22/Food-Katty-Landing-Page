@@ -1,6 +1,6 @@
 # Simple CSS and HTML Template
 
-This is a simple CSS and HTML template that can be used as a starting point for building a website. It includes basic styling and structure to help you get up and running quickly.
+This is a simple CSS and HTML page that can be used as a starting point for building a website with a nice menu . It includes basic styling and structure to help you get up and running quickly.
 
 ## Features
 - Clean and minimal design
