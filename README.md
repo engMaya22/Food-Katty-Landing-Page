@@ -8,7 +8,7 @@ This is a simple CSS and HTML template that can be used as a starting point for 
 - Easy to customize
 
 ## Installation
-1. Clone the repository: git clone https://github.com/your-username/simple-css-html-template.git
+1. Clone the repository: git clone https://github.com/engMaya22/Food-Katty-Template.git
 2. Open the index.html file in your browser to view the template
 
 ## Usage
