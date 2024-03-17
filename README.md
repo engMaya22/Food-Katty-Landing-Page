@@ -1,4 +1,4 @@
-# Simple CSS and HTML Template
+# Simple CSS and HTML Landing page
 
 This is a simple CSS and HTML page that can be used as a starting point for building a website with a nice menu . It includes basic styling and structure to help you get up and running quickly.
 
